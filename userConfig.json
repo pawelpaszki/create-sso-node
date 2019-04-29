@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "emailVerified": false,
+  "username": "jdoe",
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "jdope@example.com",
+  "realmRoles": [
+    "offline_access",
+    "uma_authorization"
+  ],
+  "clientRoles": {
+    "account": [
+      "manage-account",
+      "view-profile"
+    ]
+  },
+  "groups": [],
+  "attributes": {},
+  "credentials": [
+    {
+      "type": "password",
+      "value": "Password1"
+    }
+  ]
+}
