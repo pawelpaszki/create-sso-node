@@ -4,7 +4,7 @@
   "username": "jdoe",
   "firstName": "John",
   "lastName": "Doe",
-  "email": "jdope@example.com",
+  "email": "jdoe@example.com",
   "realmRoles": [
     "offline_access",
     "uma_authorization"
